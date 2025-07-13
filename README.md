@@ -1,4 +1,17 @@
 # Automated_report_generation.py
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : ANSHIKA DHIMAN
+
+INTERN ID : CITSOD458
+
+DOMAIN : PYTHON PROGRAMMING
+
+DURATION : 4 WEEKS
+
+MENTOR : NEELA SANTOSH
+
+ABOUT :
 student Report Generator
 
 This project is a PDF report generator built using Python. It uses FPDF, Pandas, and ReportLab libraries to create clean, well-structured PDF reports from data.
